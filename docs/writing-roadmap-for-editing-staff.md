@@ -58,4 +58,4 @@ ARS checks that each citation exists and supports its claim. `sciwrite` checks t
 - ProofreaderPro, "How to use Claude for research writing." https://proofreaderpro.ai/ko/blog/how-to-use-claude-for-research-writing
 - PyTorch Korea User Group, "Academic Research Skills for Claude Code." https://discuss.pytorch.kr/t/academic-research-skills-claude-code/10385
 - Academic Research Skills repository. https://github.com/Imbad0202/academic-research-skills
-- D. Sosa, Scientific Writing Skills (based on K. Sainani, *Writing in the Sciences*, Stanford University). https://github.com/dvdsosa/scientific-writing-skills
+- dvdsosa, Scientific Writing Skills (based on K. Sainani, *Writing in the Sciences*, Stanford University). https://github.com/dvdsosa/scientific-writing-skills
