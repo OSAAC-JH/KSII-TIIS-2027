@@ -1,0 +1,1468 @@
+{
+ "R01": {
+  "doi": "10.1145/3715336.3735844",
+  "ok": true,
+  "title": [
+   "Reshaping Craft Learning: Insights from Designing an AI-Augmented MR System for Wheel-Throwing"
+  ],
+  "author": [
+   [
+    "Hongfei",
+    "Ji",
+    null
+   ],
+   [
+    "Peiyu",
+    "Hu",
+    null
+   ],
+   [
+    "Dina",
+    "EL-Zanfaly",
+    null
+   ]
+  ],
+  "container": [
+   "Proceedings of the 2025 ACM Designing Interactive Systems Conference"
+  ],
+  "short": [],
+  "vol": null,
+  "issue": null,
+  "page": "2549-2573",
+  "article": null,
+  "issued": [
+   [
+    2025,
+    7,
+    4
+   ]
+  ],
+  "type": "proceedings-article",
+  "event": "DIS '25: Designing Interactive Systems Conference",
+  "loc": "Madeira Portugal",
+  "publisher": "ACM",
+  "pub-loc": "New York, NY, USA"
+ },
+ "R02": {
+  "doi": "10.1145/3802842.3802892",
+  "ok": true,
+  "title": [
+   "Cross-Modal Retrieval-Augmented Generation for Craft Gestures Learning: Enabling Dialogue with Multimodal Pedagogical Contents"
+  ],
+  "author": [
+   [
+    "Théo",
+    "Akbas",
+    null
+   ],
+   [
+    "Alina",
+    "Glushkova",
+    null
+   ],
+   [
+    "Sotiris",
+    "Manitsaris",
+    null
+   ]
+  ],
+  "container": [
+   "Proceedings of the 10th International Conference on Movement and Computing"
+  ],
+  "short": [],
+  "vol": null,
+  "issue": null,
+  "page": "1-5",
+  "article": null,
+  "issued": [
+   [
+    2026,
+    4,
+    23
+   ]
+  ],
+  "type": "proceedings-article",
+  "event": "MOCO '26: The 10th International Conference on Movement and Computing 2026",
+  "loc": "Montpellier France",
+  "publisher": "ACM",
+  "pub-loc": "New York, NY, USA"
+ },
+ "R03": {
+  "doi": "10.3390/app15105408",
+  "ok": true,
+  "title": [
+   "A Digitally Enhanced Ethnography for Craft Action and Process Understanding"
+  ],
+  "author": [
+   [
+    "Xenophon",
+    "Zabulis",
+    null
+   ],
+   [
+    "Partarakis",
+    "Nikolaos",
+    null
+   ],
+   [
+    "Vasiliki",
+    "Manikaki",
+    null
+   ],
+   [
+    "Ioanna",
+    "Demeridou",
+    null
+   ],
+   [
+    "Arnaud",
+    "Dubois",
+    null
+   ],
+   [
+    "Inés",
+    "Moreno",
+    null
+   ],
+   [
+    "Valentina",
+    "Bartalesi",
+    null
+   ],
+   [
+    "Nicolò",
+    "Pratelli",
+    null
+   ],
+   [
+    "Carlo",
+    "Meghini",
+    null
+   ],
+   [
+    "Sotiris",
+    "Manitsaris",
+    null
+   ],
+   [
+    "Gavriela",
+    "Senteri",
+    null
+   ]
+  ],
+  "container": [
+   "Applied Sciences"
+  ],
+  "short": [
+   "Applied Sciences"
+  ],
+  "vol": "15",
+  "issue": "10",
+  "page": "5408",
+  "article": null,
+  "issued": [
+   [
+    2025,
+    5,
+    12
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "MDPI AG",
+  "pub-loc": null
+ },
+ "R04": {
+  "doi": "10.1145/3749496",
+  "ok": true,
+  "title": [
+   "SensorChat: Answering Qualitative and Quantitative Questions during Long-term Multimodal Sensor Interactions"
+  ],
+  "author": [
+   [
+    "Xiaofan",
+    "Yu",
+    null
+   ],
+   [
+    "Lanxiang",
+    "Hu",
+    null
+   ],
+   [
+    "Benjamin",
+    "Reichman",
+    null
+   ],
+   [
+    "Dylan",
+    "Chu",
+    null
+   ],
+   [
+    "Rushil",
+    "Chandrupatla",
+    null
+   ],
+   [
+    "Xiyuan",
+    "Zhang",
+    null
+   ],
+   [
+    "Larry",
+    "Heck",
+    null
+   ],
+   [
+    "Tajana S.",
+    "Rosing",
+    null
+   ]
+  ],
+  "container": [
+   "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
+  ],
+  "short": [
+   "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol."
+  ],
+  "vol": "9",
+  "issue": "3",
+  "page": "1-35",
+  "article": null,
+  "issued": [
+   [
+    2025,
+    9,
+    3
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "Association for Computing Machinery (ACM)",
+  "pub-loc": null
+ },
+ "R05": {
+  "doi": "10.3390/electronics15061294",
+  "ok": true,
+  "title": [
+   "Externalizing Tacit Craft Knowledge Through Semantic Graphs and Real-Time VR Simulation"
+  ],
+  "author": [
+   [
+    "Nikolaos",
+    "Partarakis",
+    null
+   ],
+   [
+    "Panagiotis",
+    "Koutlemanis",
+    null
+   ],
+   [
+    "Ioanna",
+    "Demeridou",
+    null
+   ],
+   [
+    "Dimitrios",
+    "Zourarakis",
+    null
+   ],
+   [
+    "Alexandros",
+    "Makris",
+    null
+   ],
+   [
+    "Anastasios",
+    "Roussos",
+    null
+   ],
+   [
+    "Xenophon",
+    "Zabulis",
+    null
+   ]
+  ],
+  "container": [
+   "Electronics"
+  ],
+  "short": [
+   "Electronics"
+  ],
+  "vol": "15",
+  "issue": "6",
+  "page": "1294",
+  "article": null,
+  "issued": [
+   [
+    2026,
+    3,
+    19
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "MDPI AG",
+  "pub-loc": null
+ },
+ "R06": {
+  "doi": "10.1145/3800645.3812941",
+  "ok": true,
+  "title": [
+   "ClayScape: A GenAI-Supported Workflow for Designing Chinese Style Ceramics with Clay 3D Printing"
+  ],
+  "author": [
+   [
+    "Sijia",
+    "Liu",
+    null
+   ],
+   [
+    "Hoi Ching Silvester",
+    "Mok",
+    null
+   ],
+   [
+    "Long",
+    "Ling",
+    null
+   ],
+   [
+    "Tobias",
+    "Klein",
+    null
+   ],
+   [
+    "RAY",
+    "LC",
+    null
+   ]
+  ],
+  "container": [
+   "Proceedings of the 2026 Designing Interactive Systems Conference"
+  ],
+  "short": [],
+  "vol": null,
+  "issue": null,
+  "page": "2014-2036",
+  "article": null,
+  "issued": [
+   [
+    2026,
+    6,
+    12
+   ]
+  ],
+  "type": "proceedings-article",
+  "event": "DIS '26: Designing Interactive Systems Conference",
+  "loc": "Singapore , Singapore",
+  "publisher": "ACM",
+  "pub-loc": "New York, NY, USA"
+ },
+ "R07": {
+  "doi": "10.1145/3664209",
+  "ok": true,
+  "title": [
+   "Probabilistic Craft- Materialization of generated images using digital and traditional craft"
+  ],
+  "author": [
+   [
+    "Sharan R.",
+    "Elran",
+    null
+   ],
+   [
+    "Amit R.",
+    "Zoran",
+    null
+   ]
+  ],
+  "container": [
+   "Proceedings of the ACM on Computer Graphics and Interactive Techniques"
+  ],
+  "short": [
+   "Proc. ACM Comput. Graph. Interact. Tech."
+  ],
+  "vol": "7",
+  "issue": "4",
+  "page": "1-10",
+  "article": null,
+  "issued": [
+   [
+    2024,
+    7,
+    19
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "Association for Computing Machinery (ACM)",
+  "pub-loc": null
+ },
+ "R08": {
+  "doi": "10.3390/arts15110252",
+  "ok": true,
+  "title": [
+   "Ceramic Design and the Role of Generative AI: A Practice-Based Exploration"
+  ],
+  "author": [
+   [
+    "Saniye",
+    "Fışgın Korkmaz",
+    null
+   ]
+  ],
+  "container": [
+   "Arts"
+  ],
+  "short": [
+   "Arts"
+  ],
+  "vol": "15",
+  "issue": "11",
+  "page": "252",
+  "article": null,
+  "issued": [
+   [
+    2026,
+    10,
+    30
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "MDPI AG",
+  "pub-loc": null
+ },
+ "R09": {
+  "doi": "10.1080/10447318.2026.2732483",
+  "ok": true,
+  "title": [
+   "Result-Oriented Generation Meets Process-Oriented Creation: Understanding the Tension Between Generative AI and Craft Practice"
+  ],
+  "author": [
+   [
+    "Haiqing",
+    "Xu",
+    null
+   ],
+   [
+    "Jing",
+    "Li",
+    null
+   ],
+   [
+    "Naixin",
+    "Hou",
+    null
+   ],
+   [
+    "Xianghua (Sharon)",
+    "Ding",
+    null
+   ],
+   [
+    "Guanhong",
+    "Liu",
+    null
+   ]
+  ],
+  "container": [
+   "International Journal of Human–Computer Interaction"
+  ],
+  "short": [
+   "International Journal of Human–Computer Interaction"
+  ],
+  "vol": null,
+  "issue": null,
+  "page": "1-24",
+  "article": null,
+  "issued": [
+   [
+    2026,
+    9,
+    14
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "Informa UK Limited",
+  "pub-loc": null
+ },
+ "R10": {
+  "doi": "10.1007/s00146-026-03379-x",
+  "ok": true,
+  "title": [
+   "More than we can make: generative AI, artistic forms, and artistic becoming"
+  ],
+  "author": [
+   [
+    "Amit Raphael",
+    "Zoran",
+    null
+   ]
+  ],
+  "container": [
+   "AI &amp; SOCIETY"
+  ],
+  "short": [
+   "AI &amp; Soc"
+  ],
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "article": null,
+  "issued": [
+   [
+    2026,
+    10,
+    3
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "Springer Science and Business Media LLC",
+  "pub-loc": null
+ },
+ "R11": {
+  "doi": "10.1145/2893491",
+  "ok": true,
+  "title": [
+   "A manifest for digital imperfection"
+  ],
+  "author": [
+   [
+    "Amit",
+    "Zoran",
+    null
+   ]
+  ],
+  "container": [
+   "XRDS: Crossroads, The ACM Magazine for Students"
+  ],
+  "short": [
+   "XRDS"
+  ],
+  "vol": "22",
+  "issue": "3",
+  "page": "22-27",
+  "article": null,
+  "issued": [
+   [
+    2016,
+    4,
+    6
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "Association for Computing Machinery (ACM)",
+  "pub-loc": null
+ },
+ "R12": {
+  "doi": "10.20668/adada.29.2_45",
+  "ok": false,
+  "err": "HTTP Error 404: Not Found"
+ },
+ "R13": {
+  "doi": "10.1016/j.edurev.2018.07.001",
+  "ok": true,
+  "title": [
+   "Using sensors and augmented reality to train apprentices using recorded expert performance: A systematic literature review"
+  ],
+  "author": [
+   [
+    "Bibeg Hang",
+    "Limbu",
+    null
+   ],
+   [
+    "Halszka",
+    "Jarodzka",
+    null
+   ],
+   [
+    "Roland",
+    "Klemke",
+    null
+   ],
+   [
+    "Marcus",
+    "Specht",
+    null
+   ]
+  ],
+  "container": [
+   "Educational Research Review"
+  ],
+  "short": [
+   "Educational Research Review"
+  ],
+  "vol": "25",
+  "issue": null,
+  "page": "1-22",
+  "article": null,
+  "issued": [
+   [
+    2018,
+    11
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "Elsevier BV",
+  "pub-loc": null
+ },
+ "R14": {
+  "doi": "10.1007/978-3-031-98197-5_39",
+  "ok": true,
+  "title": [
+   "A Generative AI-Supported Flipped Classroom Model for Personalized Skill Training in Engineering Woodworking Education"
+  ],
+  "author": [
+   [
+    "Hung-Chang",
+    "Lin",
+    null
+   ]
+  ],
+  "container": [
+   "Lecture Notes in Computer Science",
+   "Innovative Technologies and Learning"
+  ],
+  "short": [],
+  "vol": null,
+  "issue": null,
+  "page": "366-376",
+  "article": null,
+  "issued": [
+   [
+    2025,
+    7,
+    15
+   ]
+  ],
+  "type": "book-chapter",
+  "event": null,
+  "loc": null,
+  "publisher": "Springer Nature Switzerland",
+  "pub-loc": "Cham"
+ },
+ "R15": {
+  "doi": "10.1080/14626268.2023.2174557",
+  "ok": true,
+  "title": [
+   "Using artificial intelligence in craft education: crafting with text-to-image generative models"
+  ],
+  "author": [
+   [
+    "Henriikka",
+    "Vartiainen",
+    null
+   ],
+   [
+    "Matti",
+    "Tedre",
+    null
+   ]
+  ],
+  "container": [
+   "Digital Creativity"
+  ],
+  "short": [
+   "Digital Creativity"
+  ],
+  "vol": "34",
+  "issue": "1",
+  "page": "1-21",
+  "article": null,
+  "issued": [
+   [
+    2023,
+    1,
+    2
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "Informa UK Limited",
+  "pub-loc": null
+ },
+ "R16": {
+  "doi": "10.3390/su16166973",
+  "ok": true,
+  "title": [
+   "Enhancing Soft Skills through Generative AI in Sustainable Fashion Textile Design Education"
+  ],
+  "author": [
+   [
+    "Dawool",
+    "Jung",
+    null
+   ],
+   [
+    "Sungeun",
+    "Suh",
+    null
+   ]
+  ],
+  "container": [
+   "Sustainability"
+  ],
+  "short": [
+   "Sustainability"
+  ],
+  "vol": "16",
+  "issue": "16",
+  "page": "6973",
+  "article": null,
+  "issued": [
+   [
+    2024,
+    8,
+    14
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "MDPI AG",
+  "pub-loc": null
+ },
+ "R17": {
+  "doi": "10.1145/3706598.3713281",
+  "ok": true,
+  "title": [
+   "AIFiligree: A Generative AI Framework for Designing Exquisite Filigree Artworks"
+  ],
+  "author": [
+   [
+    "Ye",
+    "Tao",
+    null
+   ],
+   [
+    "Xiaohui",
+    "Fu",
+    null
+   ],
+   [
+    "Jiaying",
+    "Wu",
+    null
+   ],
+   [
+    "Ze",
+    "Bian",
+    null
+   ],
+   [
+    "Aiyu",
+    "Zhu",
+    null
+   ],
+   [
+    "Qi",
+    "Bao",
+    null
+   ],
+   [
+    "Weiyue",
+    "Zheng",
+    null
+   ],
+   [
+    "Yubo",
+    "Wang",
+    null
+   ],
+   [
+    "Bin",
+    "Zhu",
+    null
+   ],
+   [
+    "Cheng",
+    "Yang",
+    null
+   ],
+   [
+    "Chuyi",
+    "Zhou",
+    null
+   ]
+  ],
+  "container": [
+   "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
+  ],
+  "short": [],
+  "vol": null,
+  "issue": null,
+  "page": "1-18",
+  "article": null,
+  "issued": [
+   [
+    2025,
+    4,
+    25
+   ]
+  ],
+  "type": "proceedings-article",
+  "event": "CHI 2025: CHI Conference on Human Factors in Computing Systems",
+  "loc": "Yokohama Japan",
+  "publisher": "ACM",
+  "pub-loc": "New York, NY, USA"
+ },
+ "R18": {
+  "doi": "10.1080/14606925.2024.2303236",
+  "ok": true,
+  "title": [
+   "An application of generative AI for knitted textile design in fashion"
+  ],
+  "author": [
+   [
+    "Xiaopei",
+    "Wu",
+    null
+   ],
+   [
+    "Li",
+    "Li",
+    null
+   ]
+  ],
+  "container": [
+   "The Design Journal"
+  ],
+  "short": [
+   "The Design Journal"
+  ],
+  "vol": "27",
+  "issue": "2",
+  "page": "270-290",
+  "article": null,
+  "issued": [
+   [
+    2024,
+    2,
+    2
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "Informa UK Limited",
+  "pub-loc": null
+ },
+ "R19": {
+  "doi": "10.1145/3772363.3798619",
+  "ok": true,
+  "title": [
+   "DisCraft: Exploring the Dis-embodiment of Bamboo Weaving in Generative AI"
+  ],
+  "author": [
+   [
+    "Kexin",
+    "Nie",
+    null
+   ],
+   [
+    "Zhiwei",
+    "Wang",
+    null
+   ],
+   [
+    "Mengyao",
+    "Guo",
+    null
+   ],
+   [
+    "Haowei",
+    "Xiong",
+    null
+   ]
+  ],
+  "container": [
+   "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems"
+  ],
+  "short": [],
+  "vol": null,
+  "issue": null,
+  "page": "1-5",
+  "article": null,
+  "issued": [
+   [
+    2026,
+    4,
+    13
+   ]
+  ],
+  "type": "proceedings-article",
+  "event": "CHI EA '26: Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "loc": "Barcelona , Spain",
+  "publisher": "ACM",
+  "pub-loc": "New York, NY, USA"
+ },
+ "R20": {
+  "doi": "10.1162/LEON_a_00603",
+  "ok": true,
+  "title": [
+   "Hybrid Basketry: Interweaving Digital Practice within Contemporary Craft"
+  ],
+  "author": [
+   [
+    "Amit",
+    "Zoran",
+    null
+   ]
+  ],
+  "container": [
+   "Leonardo"
+  ],
+  "short": [
+   "Leonardo"
+  ],
+  "vol": "46",
+  "issue": "4",
+  "page": "324-331",
+  "article": null,
+  "issued": [
+   [
+    2013,
+    8
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "MIT Press - Journals",
+  "pub-loc": null
+ },
+ "R21": {
+  "doi": "10.18653/v1/2026.acl-long.604",
+  "ok": true,
+  "title": [
+   "CrochetBench: Can Vision-Language Models Move from Describing to Doing in Crochet Domain?"
+  ],
+  "author": [
+   [
+    "Peiyu",
+    "Li",
+    null
+   ],
+   [
+    "Xiaobao",
+    "Huang",
+    null
+   ],
+   [
+    "Ting",
+    "Hua",
+    null
+   ],
+   [
+    "Nitesh V",
+    "Chawla",
+    null
+   ]
+  ],
+  "container": [
+   "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+  ],
+  "short": [],
+  "vol": null,
+  "issue": null,
+  "page": "13229-13251",
+  "article": null,
+  "issued": [
+   [
+    2026
+   ]
+  ],
+  "type": "proceedings-article",
+  "event": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "loc": "San Diego, California, United States",
+  "publisher": "Association for Computational Linguistics",
+  "pub-loc": "Stroudsburg, PA, USA"
+ },
+ "R22": {
+  "doi": "10.1609/aaaiss.v6i1.36054",
+  "ok": true,
+  "title": [
+   "Translation of User Crochet Patterns to CrochetPARADE Syntax Using Large Language Models"
+  ],
+  "author": [
+   [
+    "Rachael",
+    "Dias",
+    null
+   ],
+   [
+    "Kayvan",
+    "Karim",
+    null
+   ]
+  ],
+  "container": [
+   "Proceedings of the AAAI Symposium Series"
+  ],
+  "short": [
+   "AAAI-SS"
+  ],
+  "vol": "6",
+  "issue": "1",
+  "page": "200-208",
+  "article": null,
+  "issued": [
+   [
+    2025,
+    8,
+    1
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "Association for the Advancement of Artificial Intelligence (AAAI)",
+  "pub-loc": null
+ },
+ "R23": {
+  "doi": "10.1177/0887302X261487373",
+  "ok": true,
+  "title": [
+   "Development of an LLM-Based Multi-Agent System for Sewing Sequence Planning"
+  ],
+  "author": [
+   [
+    "Hyeryeon",
+    "Park",
+    null
+   ],
+   [
+    "Sungmin",
+    "Kim",
+    null
+   ]
+  ],
+  "container": [
+   "Clothing and Textiles Research Journal"
+  ],
+  "short": [
+   "Clothing and Textiles Research Journal"
+  ],
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "article": "0887302X261487373",
+  "issued": [
+   [
+    2026,
+    9,
+    11
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "SAGE Publications",
+  "pub-loc": null
+ },
+ "R24": {
+  "doi": "10.1145/3706598.3714188",
+  "ok": true,
+  "title": [
+   "Satori 悟り: Towards Proactive AR Assistant with Belief-Desire-Intention User Modeling"
+  ],
+  "author": [
+   [
+    "Chenyi",
+    "Li",
+    null
+   ],
+   [
+    "Guande",
+    "Wu",
+    null
+   ],
+   [
+    "Gromit Yeuk-Yin",
+    "Chan",
+    null
+   ],
+   [
+    "Dishita Gdi",
+    "Turakhia",
+    null
+   ],
+   [
+    "Sonia",
+    "Castelo Quispe",
+    null
+   ],
+   [
+    "Dong",
+    "Li",
+    null
+   ],
+   [
+    "Leslie",
+    "Welch",
+    null
+   ],
+   [
+    "Claudio",
+    "Silva",
+    null
+   ],
+   [
+    "Jing",
+    "Qian",
+    null
+   ]
+  ],
+  "container": [
+   "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
+  ],
+  "short": [],
+  "vol": null,
+  "issue": null,
+  "page": "1-24",
+  "article": null,
+  "issued": [
+   [
+    2025,
+    4,
+    25
+   ]
+  ],
+  "type": "proceedings-article",
+  "event": "CHI 2025: CHI Conference on Human Factors in Computing Systems",
+  "loc": "Yokohama Japan",
+  "publisher": "ACM",
+  "pub-loc": "New York, NY, USA"
+ },
+ "R25": {
+  "doi": "10.1145/3746059.3747770",
+  "ok": true,
+  "title": [
+   "ProMemAssist: Exploring Timely Proactive Assistance Through Working Memory Modeling in Multi-Modal Wearable Devices"
+  ],
+  "author": [
+   [
+    "Kevin",
+    "Pu",
+    null
+   ],
+   [
+    "Ting",
+    "Zhang",
+    null
+   ],
+   [
+    "Naveen",
+    "Sendhilnathan",
+    null
+   ],
+   [
+    "Sebastian",
+    "Freitag",
+    null
+   ],
+   [
+    "Raj",
+    "Sodhi",
+    null
+   ],
+   [
+    "Tanya R.",
+    "Jonker",
+    null
+   ]
+  ],
+  "container": [
+   "Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology"
+  ],
+  "short": [],
+  "vol": null,
+  "issue": null,
+  "page": "1-19",
+  "article": null,
+  "issued": [
+   [
+    2025,
+    9,
+    27
+   ]
+  ],
+  "type": "proceedings-article",
+  "event": "UIST '25: The 38th Annual ACM Symposium on User Interface Software and Technology",
+  "loc": "Busan Republic of Korea",
+  "publisher": "ACM",
+  "pub-loc": "New York, NY, USA"
+ },
+ "R26": {
+  "doi": "10.3758/s13423-012-0333-8",
+  "ok": true,
+  "title": [
+   "Augmented visual, auditory, haptic, and multimodal feedback in motor learning: A review"
+  ],
+  "author": [
+   [
+    "Roland",
+    "Sigrist",
+    null
+   ],
+   [
+    "Georg",
+    "Rauter",
+    null
+   ],
+   [
+    "Robert",
+    "Riener",
+    null
+   ],
+   [
+    "Peter",
+    "Wolf",
+    null
+   ]
+  ],
+  "container": [
+   "Psychonomic Bulletin &amp; Review"
+  ],
+  "short": [
+   "Psychon Bull Rev"
+  ],
+  "vol": "20",
+  "issue": "1",
+  "page": "21-53",
+  "article": null,
+  "issued": [
+   [
+    2012,
+    11,
+    7
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "Springer Science and Business Media LLC",
+  "pub-loc": null
+ },
+ "R27": {
+  "doi": "10.1177/1745691615569000",
+  "ok": true,
+  "title": [
+   "Learning Versus Performance"
+  ],
+  "author": [
+   [
+    "Nicholas C.",
+    "Soderstrom",
+    null
+   ],
+   [
+    "Robert A.",
+    "Bjork",
+    null
+   ]
+  ],
+  "container": [
+   "Perspectives on Psychological Science"
+  ],
+  "short": [
+   "Perspect Psychol Sci"
+  ],
+  "vol": "10",
+  "issue": "2",
+  "page": "176-199",
+  "article": null,
+  "issued": [
+   [
+    2015,
+    3
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "SAGE Publications",
+  "pub-loc": null
+ },
+ "R28": {
+  "doi": "10.1136/bmj.l6890",
+  "ok": true,
+  "title": [
+   "Synthesis without meta-analysis (SWiM) in systematic reviews: reporting guideline"
+  ],
+  "author": [
+   [
+    "Mhairi",
+    "Campbell",
+    null
+   ],
+   [
+    "Joanne E",
+    "McKenzie",
+    null
+   ],
+   [
+    "Amanda",
+    "Sowden",
+    null
+   ],
+   [
+    "Srinivasa Vittal",
+    "Katikireddi",
+    null
+   ],
+   [
+    "Sue E",
+    "Brennan",
+    null
+   ],
+   [
+    "Simon",
+    "Ellis",
+    null
+   ],
+   [
+    "Jamie",
+    "Hartmann-Boyce",
+    null
+   ],
+   [
+    "Rebecca",
+    "Ryan",
+    null
+   ],
+   [
+    "Sasha",
+    "Shepperd",
+    null
+   ],
+   [
+    "James",
+    "Thomas",
+    null
+   ],
+   [
+    "Vivian",
+    "Welch",
+    null
+   ],
+   [
+    "Hilary",
+    "Thomson",
+    null
+   ]
+  ],
+  "container": [
+   "BMJ"
+  ],
+  "short": [
+   "BMJ"
+  ],
+  "vol": null,
+  "issue": null,
+  "page": "l6890",
+  "article": null,
+  "issued": [
+   [
+    2020,
+    1,
+    16
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "BMJ",
+  "pub-loc": null
+ },
+ "R29": {
+  "doi": "10.3837/tiis.2026.04.027",
+  "ok": true,
+  "title": [
+   "Generative AI Features and Limitations in Support of Inclusive XR Immersive Learning Environments for Aging and Creative Community Applications"
+  ],
+  "author": [],
+  "container": [
+   "KSII Transactions on Internet and Information Systems"
+  ],
+  "short": [
+   "KSII TIIS"
+  ],
+  "vol": "20",
+  "issue": "4",
+  "page": null,
+  "article": null,
+  "issued": [
+   [
+    2026,
+    4,
+    30
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "Korean Society for Internet Information (KSII)",
+  "pub-loc": null
+ },
+ "R30": {
+  "doi": "10.15187/adr.2022.11.35.4.73",
+  "ok": true,
+  "title": [
+   "A Study on the Strategic Collaboration System between Craftspeople and Enterprises for Sustainable Development in the Center of Creative Metropolitan City"
+  ],
+  "author": [
+   [
+    "JooHyun",
+    "Lee",
+    null
+   ],
+   [
+    "Hyun-Kyung",
+    "Lee",
+    null
+   ]
+  ],
+  "container": [
+   "Archives of Design Research"
+  ],
+  "short": [
+   "adr"
+  ],
+  "vol": "35",
+  "issue": "4",
+  "page": "73-89",
+  "article": null,
+  "issued": [
+   [
+    2022,
+    11,
+    30
+   ]
+  ],
+  "type": "journal-article",
+  "event": null,
+  "loc": null,
+  "publisher": "Korean Society of Design Science",
+  "pub-loc": null
+ }
+}
